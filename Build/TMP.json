@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
-"productName": "MadeUnityProject2019",
-"productVersion": "21.04.2020.001",
+"productName": "MadeUnityProject",
+"productVersion": "06.07.2020.003",
 "dataUrl": "TMP.data.unityweb",
 "wasmCodeUrl": "TMP.wasm.code.unityweb",
 "wasmFrameworkUrl": "TMP.wasm.framework.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.3.12f1"
+"unityVersion": "2019.4.2f1"
 }

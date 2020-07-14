@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
-"productName": "MadeUnityProject2019",
-"productVersion": "21.04.2020.001",
+"productName": "MadeUnityProject",
+"productVersion": "07.07.2020.001",
 "dataUrl": "TMP.data.unityweb",
 "wasmCodeUrl": "TMP.wasm.code.unityweb",
 "wasmFrameworkUrl": "TMP.wasm.framework.unityweb",

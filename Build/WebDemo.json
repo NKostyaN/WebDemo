@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
-"productName": "360_Demo",
-"productVersion": "06.11.2020.003",
+"productName": "360_Demo_Sofa",
+"productVersion": "09.11.2020.001",
 "dataUrl": "WebDemo.data.unityweb",
 "wasmCodeUrl": "WebDemo.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebDemo.wasm.framework.unityweb",
